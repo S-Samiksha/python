@@ -1,9 +1,8 @@
 # python
-Hello! 
-There are a few files here! Let me give a description!
+Hello!
 
 BullsAndCowsSimple: 
-I was assigned to make this game on python. This game runs on the python console
+I was assigned to make this game on python in the CZ1103 Module Introduction to Computational Thinking. This game runs on the python console
 
 
 BullsAndCowsTurtle: 
